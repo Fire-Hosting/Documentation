@@ -1,0 +1,1 @@
+The gaming panel is used to manage your different servers.

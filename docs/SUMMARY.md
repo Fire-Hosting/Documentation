@@ -1,15 +1,16 @@
 ‌# Summary​
 
-## Use headings to create page groups like this one​
+## Project Information
 
-* [First page’s title](page1/README.md)
-    * [Some child page](page1/page1-1.md)
-    * [Some other child page](part1/page1-2.md)
+* [Introduction](info/introduction.md)
+* [Suported Gamse](info/supported-games.md)
+* [About](info/supported-games.md)
 
-* [Second page’s title](page2/README.md)
-    * [Some child page](page2/page2-1.md)
-    * [Some other child page](part2/page2-2.md)
+## Documentation
 
-## A second-page group​
+* [Server payment panel](p-panel/README.md)
+    * [How to get a server](p-panel/get-server.md)
+    * [How to secure my account](p-panel/secure-account.md)
 
-* [Yet another page](another-page.md)
+* [Gaming server panel](g-panel/README.md)
+    * [How to access my servers](g-panel/access-to-server.md)
