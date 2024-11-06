@@ -1,0 +1,2 @@
+# Documentation
+Fire-Hosting documentation
