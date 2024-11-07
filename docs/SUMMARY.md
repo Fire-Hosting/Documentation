@@ -4,7 +4,7 @@
 
 * [Introduction](info/introduction.md)
 * [Suported Gamse](info/supported-games.md)
-* [About](info/supported-games.md)
+* [About](info/about.md)
 
 ## Documentation
 
