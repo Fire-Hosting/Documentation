@@ -1,4 +1,6 @@
-‌# Summary​
+# Table of contents
+
+* [README](README.md)
 
 ## Project Information
 
@@ -6,11 +8,7 @@
 * [Suported Gamse](info/supported-games.md)
 * [About](info/about.md)
 
-## Documentation
+***
 
-* [Server payment panel](p-panel/README.md)
-    * [How to get a server](p-panel/get-server.md)
-    * [How to secure my account](p-panel/secure-account.md)
-
-* [Gaming server panel](g-panel/README.md)
-    * [How to access my servers](g-panel/access-to-server.md)
+* [🚄 Getting Started](getting-started.md)
+* [How to Start a Minecraft Server](how-to-start-a-minecraft-server.md)

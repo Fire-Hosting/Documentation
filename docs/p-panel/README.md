@@ -1,1 +1,0 @@
-The payment panel is used to purchase your game servers and cancel subscriptions.
