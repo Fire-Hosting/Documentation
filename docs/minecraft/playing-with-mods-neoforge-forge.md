@@ -4,7 +4,7 @@ description: >-
   the required mods on your computer.
 ---
 
-# Playing with Mods (NeoForge / Forge)
+# 🖥️ Playing with Mods (NeoForge / Forge)
 
 ## Choosing a Modded Server Version
 
@@ -22,7 +22,7 @@ For this example, we will use **NeoForge**.
 
 The panel will now **install NeoForge automatically**.
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 
 

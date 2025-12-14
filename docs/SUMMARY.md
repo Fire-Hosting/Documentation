@@ -7,9 +7,9 @@
 * [Introduction](info/introduction.md)
 * [Suported Gamse](info/supported-games.md)
 * [About](info/about.md)
+* [🚄 Getting Started](project-information/getting-started.md)
 
-***
+## Minecraft
 
-* [🚄 Getting Started](getting-started.md)
-* [How to Start a Minecraft Server](how-to-start-a-minecraft-server.md)
-* [Playing with Mods (NeoForge / Forge)](playing-with-mods-neoforge-forge.md)
+* [⛏️ How to Start a Minecraft Server](minecraft/how-to-start-a-minecraft-server.md)
+* [🖥️ Playing with Mods (NeoForge / Forge)](minecraft/playing-with-mods-neoforge-forge.md)
