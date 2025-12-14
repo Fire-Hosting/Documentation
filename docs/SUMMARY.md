@@ -12,3 +12,4 @@
 
 * [🚄 Getting Started](getting-started.md)
 * [How to Start a Minecraft Server](how-to-start-a-minecraft-server.md)
+* [Playing with Mods (NeoForge / Forge)](playing-with-mods-neoforge-forge.md)
